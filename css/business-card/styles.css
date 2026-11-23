@@ -2,3 +2,78 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    background-color: rosybrown;
+    font-family: Arial, sans-serif;
+}
+
+.business-card {
+    width: 300px;
+    height: 60%;
+    margin: 100px auto;
+    font-size: 16px;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 20px;
+    background-color:#FFF0F5;
+}
+
+.profile-image {
+    width: 150px;
+    max-width: 100%;
+    height: 150px;
+    border: 1px solid #435F5F;
+    margin-bottom: 5px;
+}
+
+.full-name {
+    font-size: 30px;
+    color: #2F4F4F;
+    font-weight: 550;
+    margin-bottom: 5px;
+}
+
+.designation {
+    font-size: 20px;
+    color: grey;
+    font-weight: 500px;
+    margin-bottom: 5px;
+}
+
+.company {
+    color: grey;
+    margin-bottom: 5px;
+}
+
+hr {
+    border: 1px solid #000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a {
+    color: maroon;
+    text-decoration: none;
+}
+
+p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.social-media-title {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.social-media {
+    padding: 10px;
+}
+
+.social-media a {
+    padding: 10px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
